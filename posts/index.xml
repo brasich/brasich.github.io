@@ -9,7 +9,16 @@
       <link>https://brasich.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 04 Dec 2021 20:28:36 -0500</lastBuildDate><atom:link href="https://brasich.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Dec 2021 20:38:13 -0500</lastBuildDate><atom:link href="https://brasich.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baby&#39;s First Azure Function</title>
+      <link>https://brasich.github.io/posts/babys-first-azure-function/</link>
+      <pubDate>Wed, 15 Dec 2021 20:38:13 -0500</pubDate>
+      
+      <guid>https://brasich.github.io/posts/babys-first-azure-function/</guid>
+      <description>Our team practices a fairly standard separation of responsibilities between Data Science and Engineering. On the data science side, I take in requirements from the business, frame those requirements into a tractable problem, and build a model using all available data. Outside of the model build itself, though, I rely on close partnership with engineers to make data available for me in the production environment and serve up predictions to clients through some sort of production infrastructure.</description>
+    </item>
+    
     <item>
       <title>Internet Pumpkin Pie Showdown</title>
       <link>https://brasich.github.io/posts/pumpkin-pie-showdown/</link>
