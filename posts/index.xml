@@ -9,7 +9,17 @@
       <link>https://brasich.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 19 Dec 2021 15:19:20 -0500</lastBuildDate><atom:link href="https://brasich.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jan 2022 17:24:55 -0500</lastBuildDate><atom:link href="https://brasich.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Online Data Science Masters - 1st Semester Review</title>
+      <link>https://brasich.github.io/posts/online-data-science-masters/</link>
+      <pubDate>Fri, 28 Jan 2022 17:24:55 -0500</pubDate>
+      
+      <guid>https://brasich.github.io/posts/online-data-science-masters/</guid>
+      <description>After 3 years on the job I&amp;rsquo;m studying for a Master&amp;rsquo;s degree in Data Science at UT Austin. Is it going to be worth it? Will it be manageable alongside work and other hobbies? Your guess is as good as mine.
+How did I get here? The first 3 years of my career leading to my current role as a senior data scientist have been self-taught. I took a job as a business analyst in pursuit of a faster-paced work environment and the greater ownership of complete products that a more digital-focused role allowed over the mechanical engineering field I went to school for.</description>
+    </item>
+    
     <item>
       <title>The Rise and Fall of Rebake</title>
       <link>https://brasich.github.io/posts/the-rise-and-fall-of-rebake/</link>
